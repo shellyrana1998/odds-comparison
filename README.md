@@ -38,9 +38,6 @@ odds-comparison/
 │   └── odds-table.php
 │
 ├── odds-comparison.php           # Main plugin file
-├── assets.zip                    # Likely contains CSS/JS/images
-├── odds-comparison-bck.zip      # Backup of the plugin
-└── odds-comparison.zip          # Redistributable ZIP
 ```
 
 ## Development
@@ -49,11 +46,8 @@ odds-comparison/
 - Backend logic is handled by PHP classes in the `includes/` folder.
 - Display templates are in `templates/`.
 
-## License
-
-Specify your license here (e.g., MIT, GPLv2, etc.)
 
 ## Author
 
-Your Name  
-[Your Website or GitHub](https://github.com/your-profile)
+Shelly Rana 
+
